@@ -22,9 +22,6 @@
   border-radius: 50px 5px 5px 5px;
   display: inline;
 }
-.hero__img img:hover{
-  transform: scale(1.2);
-}
 
 .hero__skills {
   text-align: left;
